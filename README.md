@@ -64,5 +64,5 @@ This dataset contains retail sales data including sales, profit, product categor
 This project demonstrates the ability to build professional KPI dashboards, apply BI storytelling principles, and deliver executive-level insights.
 
 ## Author
-Akarsh Dubey  
+Ramya M A  
 Data Analyst Intern
